@@ -10,3 +10,5 @@
 2. [Link to google Colab Code for Explanation hello_many_worlds](https://colab.research.google.com/drive/1YQGfb2qBtBdlJkTzw7grbYAsiPHzyy8F?usp=sharing)
 
 
+## Meetup-3 
+1. [Link to Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://drive.google.com/file/d/15r6W9ZmQrCgttNeu0S1atWfXA3goPjIs/view)
